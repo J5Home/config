@@ -1,1 +1,69 @@
-{}
+{
+  "Version": "1.0.0",
+  "ReleaseNotes": "CONFIG VERSION 1.1.6\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\nHONGKONG SERVER\nJAPAN SERVER\nPH SERVER\nSINGAPORE SERVER\n    ",
+  "ReleaseNotes1": "💛THANK YOU FOR SUPPORTING THIS APK💛",
+  "Servers": [
+    {
+      "Name": "Server 1",
+      "FLAG": "us",
+      "ServerIP": "174.138.95.86",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "Global Config",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "💛-J5-PUBLIC SERVER -💛",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "Server 2",
+      "FLAG": "ca",
+      "ServerIP": "174.138.95.86",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "Global Config",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "💛-J5-PUBLIC SERVER -💛",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "Server 3",
+      "FLAG": "uk",
+      "ServerIP": "174.138.95.86",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "Global Config",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "💛-J5-PUBLIC SERVER -💛",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "Server 4",
+      "FLAG": "de",
+      "ServerIP": "174.138.95.86",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "Global Config",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "💛-J5-PUBLIC SERVER -💛",
+      "tunnelT": "UDP"
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "DEFAULT CONFIG",
+      "pInfo": "WORKING ALL NETWORK",
+      "udpResolver": "8.8.8.8:53",
+      "udpUse": true
+    },
+    {
+      "Name": "DEFAULT CONFIG",
+      "pInfo": "WORKING ALL NETWORK",
+      "udpResolver": "1.1.1.1:53",
+      "udpUse": true
+    }
+  ]
+}
